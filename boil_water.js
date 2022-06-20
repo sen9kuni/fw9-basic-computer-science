@@ -1,0 +1,8 @@
+- start
+- siapkan air bersih yang akan dimasak
+- masukan kedalam panci hingga hampir memenuhi panci dan tutup panci
+- taruh panci di atas kompor
+- hidupkan kompor dengan api sedang/medium
+- tunggu hingga mendidih
+- jika sudah mendidih matikan kompor
+- selesai

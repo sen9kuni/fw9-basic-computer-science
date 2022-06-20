@@ -1,0 +1,6 @@
+- start
+- siapkan cangkir kosong tambahan(cup c)
+- tuang kopi(cup b) ke cangkir cup c
+- lalu tuang teh(cup a) ke cangkir b
+- setelah itu pindah/tuang kopi dari dari cup c ke cup a	
+- selesai
